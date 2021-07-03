@@ -1,0 +1,266 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cont {
+    background-color: #90B7ED;
+    padding: 10px;
+    width: 70%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+#t1 {
+    background-color: #C5D6FA;
+    padding: 10px;
+}
+#t2 {
+    background-color: #F5F1A1;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t1 {
+    background-color: #B7E1F9;
+    padding: 10px;
+}
+#t1 h1 img {
+}
+#t1 h1 img {
+}
+#t1 h1 img {
+}
+#t1 h1 img {
+    padding-right: 10px;
+    left: auto;
+}
+#t3 h1 img {
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#t1 .t14 img {
+    float: left;
+}
+#t6 h1 img {
+    float: right;
+    padding-left: 10px;
+    margin-left: 0px;
+}
+#t11 h1 img {
+    float: right;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    left: auto;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+#t15 h1 img {
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    float: right;
+}
+#t18 h1 img {
+    float: left;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+#t4 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t6 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t7 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t8 {
+    background-image: url(../images/Despues-de-todo-el-oceano-es-azul-o-verde-PORTADA.jpeg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t2 {
+    background-image: url(../images/Despues-de-todo-el-oceano-es-azul-o-verde-PORTADA.jpeg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t9 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t9 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t10 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t11 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t12 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t13 {
+    background-image: url(../images/Despues-de-todo-el-oceano-es-azul-o-verde-PORTADA.jpeg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.t14 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t15 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t16 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t18 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t19 {
+    background-color: #B7E1F9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#menu {
+    background-color: #3E5DBE;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t21 {
+    background-image: url(../images/Despues-de-todo-el-oceano-es-azul-o-verde-PORTADA.jpeg);
+    padding: 10px;
+}
+#t21 {
+    background-image: url(../images/Despues-de-todo-el-oceano-es-azul-o-verde-PORTADA.jpeg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t21 {
+    background-image: url(../images/oceanos-agua-viaje-mundo-1140x600.jpeg);
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t21 {
+    background-image: url(../images/Despues-de-todo-el-oceano-es-azul-o-verde-PORTADA.jpeg);
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t21 {
+    background-image: url(../images/Despues-de-todo-el-oceano-es-azul-o-verde-PORTADA.jpeg);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t21 {
+    background-image: url(../images/Despues-de-todo-el-oceano-es-azul-o-verde-PORTADA.jpeg);
+    background-repeat: repeat;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#menu {
+	height: 70px;
+	left: 242px;
+	right: 221px;
+    background-color: #FAECAD;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+	position: fixed
+		
+}
+#t22 {
+    background-image: url(../images/file-20201210-21-akudn.jpeg);
+}
+#t22 {
+    height: 331px;
+    width: 496px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.space {
+    background-color: #B7E1F9;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#space {
+    background-color: #B7E1F9;
+    padding: 10px;
+}
